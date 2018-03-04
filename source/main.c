@@ -411,8 +411,7 @@ int kpayload(struct thread *td){
 	// enable uart :)
 	*(char *)(kernel_base + 0x1997BC8) = 0; 
 
-	// specters debug settings patchs
-
+	//Full debug settings offsets for 4.55 
 	*(char *)(kernel_base + 0x1B6D086) |= 0x14;
 	*(char *)(kernel_base + 0x1B6D0A9) |= 0x3;
 	*(char *)(kernel_base + 0x1B6D0AA) |= 0x1;
