@@ -1,9 +1,9 @@
 /*****************************************************************
 *
-* ============== Dump File for 4.05 - WildCard ===============
+* ============== Dump File for 4.55 - WildCard ===============
 *
 *	Thanks to:
-*	-Specter for his kernel exploit / Code Execution method
+*	-qwertyuiop for his kernel exploit / Specter for his Code Execution method
 *	-IDC for his patches
 *	-Grass Skeu for his original Dump File on 1.76 that most
 *	of this code came from, thanks Skeu!
