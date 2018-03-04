@@ -15,13 +15,13 @@ To compile for 4.55 you need to use an sdk with changes for 4.55 support, i have
 
 -insert into the ps4 and run the payload
 
-This will dump all the usermodules self/sprx/sdll/sexe onto your usb in the /405 folder decrypted
+This will dump all the usermodules self/sprx/sdll/sexe onto your usb in the /455 folder decrypted
 some like eboots are renamed because i was too lazy to implement folder generation to mimic the ps4 fs
 but you can change to code to suit whatever you choose to :)
 
 =Credits=
 
--Qwerty for his Kernel Exploit / Specter for his code execution method
+-qwertyuiop for his Kernel Exploit / Specter for his code execution method
 
 -IDC for his his patches to allow for self decryption
 
